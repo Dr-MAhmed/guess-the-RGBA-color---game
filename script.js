@@ -1,3 +1,4 @@
+console.log('Lets write a code');
 var numSquares = 6;
 var colors = [];
 var pickedColor;
